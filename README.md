@@ -24,8 +24,8 @@ SO THAT an email can be sent when a user clicks on the form submit button.
 
 #### Setup:<br>
 (1) Clone the repo<br>
-(2) Run `npm install` (to install the dependencies),<br>
-(3) `npm start` to build and run via Vite.<br>
+(2) Run `npm install` (to install the dependencies)<br>
+(3) `npm start` to build and run via Vite<br>
 
 ## Resources
 
