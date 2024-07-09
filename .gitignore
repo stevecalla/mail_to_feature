@@ -1,0 +1,42 @@
+# Node.js specific
+node_modules/
+npm-debug.log
+
+# React-specific build output
+build/
+dist/
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+
+# Mac OS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+
+# Environment-specific files
+.env
+
+# Log files
+*.log
+
+# Dependency directories (e.g. Python's pipenv directory)
+pipenv/
+
+# Compiled Python files
+*.pyc
+
+# Compiled Java files
+*.class
+
+# Compiled C++ files
+*.out
+
+# Ignore personal customization files for example
+config/
+``  , are thos to Create
