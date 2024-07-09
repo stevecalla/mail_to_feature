@@ -1,6 +1,7 @@
 # Node.js specific
 node_modules/
 npm-debug.log
+package-lock.json
 
 # React-specific build output
 build/
@@ -39,4 +40,3 @@ pipenv/
 
 # Ignore personal customization files for example
 config/
-``  , are thos to Create
