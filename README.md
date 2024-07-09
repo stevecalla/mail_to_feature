@@ -28,8 +28,11 @@ SO THAT an email can be sent when a user clicks on the form submit button.
 (3) `npm start` to build and run via Vite.<br>
 
 ## Resources
-Stack Overflow of MailTo Option: https://stackoverflow.com/questions/63782544/react-open-mailto-e-mail-client-onclick-with-body-from-textarea<br>
-Support Docs: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a
+
+[Stack Overflow of MailTo Option](https://stackoverflow.com/questions/63782544/react-open-mailto-e-mail-client-onclick-with-body-from-textarea)
+
+[Support Docs: `<a>` element - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
+
 
 ## Tests
 
